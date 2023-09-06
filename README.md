@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2023):
 
 * [BilliardsTrainer](BilliardsTrainer.md)
+* [PantryPal](PantryPal.md)
 
 ## CSCI 430 (Spring 2023):
 
