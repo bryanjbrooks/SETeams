@@ -1,6 +1,0 @@
-# PantryPal
-
-* Bryan Brooks, bryanjbrooks
-* 
-* 
-* 
